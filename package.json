@@ -1,0 +1,19 @@
+{
+	"name": "blackjack",
+	"version": "1.0.0",
+	"description": "Performs 10000 simulations of a blackjack game",
+	"main": "blackjack.js",
+	"scripts": {
+		"start": "node blackjack.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Noisey96/blackjack-js.git"
+	},
+	"author": "Noisey96",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Noisey96/blackjack-js/issues"
+	},
+	"homepage": "https://github.com/Noisey96/blackjack-js#readme"
+}
